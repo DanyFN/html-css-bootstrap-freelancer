@@ -1,0 +1,99 @@
+/* CLASSI MODIFICA */
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.green{
+  background-color: #05b07a;
+  color: white;
+}
+.blue{
+  background-color:#1a325b;
+}
+.pdbottom{
+  padding-bottom: 80px;
+}
+
+.mgbottom{
+
+margin-bottom: 30px;
+}
+
+/*FINE CLASSI MODIFICA  */
+
+
+/* NAVBAR */
+
+.navbar{
+  margin-bottom: 0;
+  background-color:#1a325b;
+  padding: 30px;
+}
+
+.navbar-default .navbar-brand{
+  color: white;
+}
+.navbar-default .navbar-nav>li>a{
+  color: white;
+}
+
+/* FINE NAVBAR */
+
+/* SEZIONE CENTRALE */
+
+.starblue{
+  color: #1a325b;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+
+
+.immagini h1{
+  font-weight: bold;
+  color: #1a325b;
+  margin: 40px;
+}
+
+.download,
+.send{
+  color: white;
+  padding: 20px 30px;
+  border: 1px solid white;
+}
+
+.contact h1{
+  margin-bottom: 40px;
+}
+
+.dati{
+  text-align: left;
+}
+
+/* FINE SEZIONE CENTRALE */
+
+
+/* FOOTER */
+footer a{
+  color:rgb(10, 161, 115);
+}
+footer{
+  color: white;
+}
+
+input{
+  border: none;
+}
+
+span{
+  border: 1px solid white;
+  border-radius: 50%;
+  font-size: 20px;
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  line-height: 50px;
+
+}
